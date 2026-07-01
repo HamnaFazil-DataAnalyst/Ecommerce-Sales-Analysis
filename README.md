@@ -48,6 +48,7 @@ This project analyzes an e-commerce sales dataset to evaluate business performan
 | `Business Requirements Document.pdf` | Project requirements and objectives |
 | `PowerBI_Dashboard.jfif` | Power BI dashboard preview |
 | `Excel_Dashboard.jfif` | Excel dashboard preview |
+| `MySQL Screenshot` | Project SQL Analysis documentation |
 | `README.md` | Project documentation |
 
 ---
